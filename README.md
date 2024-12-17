@@ -1,4 +1,4 @@
-# habittracker
+# daylist
 
 A new Flutter project.
 
